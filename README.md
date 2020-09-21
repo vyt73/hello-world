@@ -1,2 +1,2 @@
 # hello-world
-This repository is one step closer to me learning to code.
+This repository is one step closer to managing a source code.
